@@ -1,0 +1,19 @@
+﻿{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "iuliamicu",
+        "password": "imcloud9",
+        "database": "catalog"
+    },
+    "secret": "string",
+    "emailFrom": "info@node-mysql-signup-verification-api.com",
+    "smtpOptions": {
+        "host": "smtp.ethereal.email",
+        "port": 587,
+        "auth": {
+            "user": "eldridge.trantow70@ethereal.email",
+            "pass": "DjB4AHAcXgmhvfPr7R"
+        }
+    }
+}
